@@ -1,2 +1,2 @@
 # GDG-project
-Preparing project future - GDG
+<p style="color: red;">Learning Project</p>
