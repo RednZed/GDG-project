@@ -1,0 +1,3 @@
+Abjad
+-qwerty
+-QWERTY
