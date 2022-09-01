@@ -1,0 +1,4 @@
+Abjad
+-qwerty
+-QWERTY
+-asdfgh

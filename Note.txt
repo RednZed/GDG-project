@@ -1,5 +1,7 @@
 GDG future
 -abcd
+   +dcba
+   +DCBA
 -ABCD
 -EFGH
 -IJKL
