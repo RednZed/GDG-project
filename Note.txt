@@ -1,7 +1,12 @@
 GDG future
 -abcd
    +dcba
-   +DCBA
--ABCD
+
+
+-efgh
 -EFGH
--IJKL
+-IJKL 
+   +lkji
+-MNOP 
+-qrst 
+   +mnop
